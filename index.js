@@ -58,7 +58,7 @@ readXlsxFile('data.xlsx').then(function (data) {
                             
                         `);
             })
-            console.log(jsonData[i])
+            // console.log(jsonData[i])
     }
     
 });
