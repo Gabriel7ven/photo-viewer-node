@@ -1,0 +1,802 @@
+[
+  {
+    "MSLINK": 114159393,
+    "BARRAMENTO": "170575",
+    "DADOS DO G2M": "CI_C_9_300",
+    "DADOS DO INVETÁRIO": "CI_C_9_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0766%5CMACAPA_0766_RD_POSTES-2414-34836-00.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0766%5CMACAPA_0766_RD_POSTES-2422-34836-08.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114159393"
+  },
+  {
+    "MSLINK": 114158634,
+    "BARRAMENTO": "170570",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0766%5CMACAPA_0766_RD_POSTES-2412-34806-13.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0766%5CMACAPA_0766_RD_POSTES-2400-34806-01.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114158634"
+  },
+  {
+    "MSLINK": 114158782,
+    "BARRAMENTO": "170596",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0766%5CMACAPA_0766_RD_POSTES-2458-35073-11.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0766%5CMACAPA_0766_RD_POSTES-2447-35073-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114158782"
+  },
+  {
+    "MSLINK": 114158787,
+    "BARRAMENTO": "170538",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0751%5CMACAPA_0751_RD_POSTES-1680-34559-15.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0751%5CMACAPA_0751_RD_POSTES-1665-34559-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114158787"
+  },
+  {
+    "MSLINK": 114158789,
+    "BARRAMENTO": "171351",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0760%5CMACAPA_0760_RD_POSTES-9558-37577-12.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0760%5CMACAPA_0760_RD_POSTES-9546-37577-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114158789"
+  },
+  {
+    "MSLINK": 114158942,
+    "BARRAMENTO": "170521",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0760%5CMACAPA_0760_RD_POSTES-3858-34489-07.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0760%5CMACAPA_0760_RD_POSTES-3851-34489-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114158942"
+  },
+  {
+    "MSLINK": 114159395,
+    "BARRAMENTO": "171347",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0760%5CMACAPA_0760_RD_POSTES-3923-37569-10.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0760%5CMACAPA_0760_RD_POSTES-3913-37569-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114159395"
+  },
+  {
+    "MSLINK": 114159397,
+    "BARRAMENTO": "171299",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3579-35909-09.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3570-35909-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114159397"
+  },
+  {
+    "MSLINK": 114159398,
+    "BARRAMENTO": "171295",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3539-35905-11.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3528-35905-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114159398"
+  },
+  {
+    "MSLINK": 114159399,
+    "BARRAMENTO": "171293",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3525-35903-08.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3517-35903-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114159399"
+  },
+  {
+    "MSLINK": 114159400,
+    "BARRAMENTO": "170439",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/AP_MACAPA_ATIVOS%5CCWO_0124%5CCWO_0124_RD_POSTES-0022-33913-20.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/AP_MACAPA_ATIVOS%5CCWO_0124%5CCWO_0124_RD_POSTES-0002-33913-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114159400"
+  },
+  {
+    "MSLINK": 114159409,
+    "BARRAMENTO": "171309",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3676-35920-06.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3670-35920-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114159409"
+  },
+  {
+    "MSLINK": 114190399,
+    "BARRAMENTO": "141277",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0722%5CMACAPA_0722_RD_POSTES-5834-32640-13.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0722%5CMACAPA_0722_RD_POSTES-5821-32640-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114190399"
+  },
+  {
+    "MSLINK": 114200684,
+    "BARRAMENTO": "139095",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9958-34424-20.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9938-34424-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114200684"
+  },
+  {
+    "MSLINK": 114200822,
+    "BARRAMENTO": "138357",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9722-33464-13.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9709-33464-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114200822"
+  },
+  {
+    "MSLINK": 114200839,
+    "BARRAMENTO": "138223",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0850%5CMACAPA_0850_RD_POSTES-8124-31696-06.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0850%5CMACAPA_0850_RD_POSTES-8118-31696-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114200839"
+  },
+  {
+    "MSLINK": 114200840,
+    "BARRAMENTO": "138222",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0850%5CMACAPA_0850_RD_POSTES-8116-31694-07.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0850%5CMACAPA_0850_RD_POSTES-8109-31694-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114200840"
+  },
+  {
+    "MSLINK": 114200874,
+    "BARRAMENTO": "138356",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9650-33415-09.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9641-33415-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114200874"
+  },
+  {
+    "MSLINK": 114200953,
+    "BARRAMENTO": "139133",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0742%5CMACAPA_0742_RD_POSTES-7883-34162-10.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0742%5CMACAPA_0742_RD_POSTES-7873-34162-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114200953"
+  },
+  {
+    "MSLINK": 114201181,
+    "BARRAMENTO": "138319",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9901-32960-19.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9882-32960-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201181"
+  },
+  {
+    "MSLINK": 114201225,
+    "BARRAMENTO": "139132",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0742%5CMACAPA_0742_RD_POSTES-7863-34161-00.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0742%5CMACAPA_0742_RD_POSTES-7871-34161-08.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201225"
+  },
+  {
+    "MSLINK": 114201538,
+    "BARRAMENTO": "138239",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0529%5CMACAPA_0529_RD_POSTES-3222-32045-07.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0529%5CMACAPA_0529_RD_POSTES-3215-32045-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201538"
+  },
+  {
+    "MSLINK": 114201603,
+    "BARRAMENTO": "139057",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0728%5CMACAPA_0728_RD_POSTES-8300-33387-12.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0728%5CMACAPA_0728_RD_POSTES-8288-33387-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201603"
+  },
+  {
+    "MSLINK": 114201610,
+    "BARRAMENTO": "139121",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0742%5CMACAPA_0742_RD_POSTES-7415-34113-10.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0742%5CMACAPA_0742_RD_POSTES-7405-34113-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201610"
+  },
+  {
+    "MSLINK": 114201772,
+    "BARRAMENTO": "138217",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0725%5CMACAPA_0725_RD_POSTES-6978-31668-10.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0725%5CMACAPA_0725_RD_POSTES-6968-31668-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201772"
+  },
+  {
+    "MSLINK": 114201805,
+    "BARRAMENTO": "138364",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9693-33613-13.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9680-33613-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201805"
+  },
+  {
+    "MSLINK": 114201808,
+    "BARRAMENTO": "138359",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0731%5CMACAPA_0731_RD_POSTES-9837-33488-12.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0731%5CMACAPA_0731_RD_POSTES-9825-33488-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201808"
+  },
+  {
+    "MSLINK": 114201811,
+    "BARRAMENTO": "138352",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9736-33357-11.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9725-33357-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201811"
+  },
+  {
+    "MSLINK": 114201816,
+    "BARRAMENTO": "138320",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9799-32963-20.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0740%5CMACAPA_0740_RD_POSTES-9779-32963-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201816"
+  },
+  {
+    "MSLINK": 114201818,
+    "BARRAMENTO": "138315",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-1920-32933-13.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-1907-32933-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201818"
+  },
+  {
+    "MSLINK": 114202856,
+    "BARRAMENTO": "171509",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0746%5CMACAPA_0746_RD_POSTES-2345-34447-06.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0746%5CMACAPA_0746_RD_POSTES-2339-34447-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114202856"
+  },
+  {
+    "MSLINK": 114202861,
+    "BARRAMENTO": "171489",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0747%5CMACAPA_0747_RD_POSTES-1281-35313-07.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0747%5CMACAPA_0747_RD_POSTES-1274-35313-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114202861"
+  },
+  {
+    "MSLINK": 114202863,
+    "BARRAMENTO": "171461",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0747%5CMACAPA_0747_RD_POSTES-1063-35284-04.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0747%5CMACAPA_0747_RD_POSTES-1059-35284-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114202863"
+  },
+  {
+    "MSLINK": 114202867,
+    "BARRAMENTO": "170458",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0750%5CMACAPA_0750_RD_POSTES-1578-34068-13.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0750%5CMACAPA_0750_RD_POSTES-1565-34068-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114202867"
+  },
+  {
+    "MSLINK": 114202894,
+    "BARRAMENTO": "171420",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0745%5CMACAPA_0745_RD_POSTES-0361-34869-09.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0745%5CMACAPA_0745_RD_POSTES-0352-34869-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114202894"
+  },
+  {
+    "MSLINK": 114202897,
+    "BARRAMENTO": "170576",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0745%5CMACAPA_0745_RD_POSTES-0104-34840-11.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0745%5CMACAPA_0745_RD_POSTES-0092-34840-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114202897"
+  },
+  {
+    "MSLINK": 114202922,
+    "BARRAMENTO": "171503",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0746%5CMACAPA_0746_RD_POSTES-2283-34440-06.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0746%5CMACAPA_0746_RD_POSTES-2277-34440-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114202922"
+  },
+  {
+    "MSLINK": 114202938,
+    "BARRAMENTO": "170446",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0750%5CMACAPA_0750_RD_POSTES-0999-34009-06.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0750%5CMACAPA_0750_RD_POSTES-0993-34009-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114202938"
+  },
+  {
+    "MSLINK": 114202967,
+    "BARRAMENTO": "171448",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0747%5CMACAPA_0747_RD_POSTES-0938-35270-05.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0747%5CMACAPA_0747_RD_POSTES-0933-35270-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114202967"
+  },
+  {
+    "MSLINK": 114202992,
+    "BARRAMENTO": "171510",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0746%5CMACAPA_0746_RD_POSTES-2352-34448-05.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0746%5CMACAPA_0746_RD_POSTES-2347-34448-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114202992"
+  },
+  {
+    "MSLINK": 114203064,
+    "BARRAMENTO": "148243",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0762%5CMACAPA_0762_RD_POSTES-6606-32779-13.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0762%5CMACAPA_0762_RD_POSTES-6593-32779-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114203064"
+  },
+  {
+    "MSLINK": 114203082,
+    "BARRAMENTO": "171469",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0747%5CMACAPA_0747_RD_POSTES-1138-35292-00.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0747%5CMACAPA_0747_RD_POSTES-1145-35292-07.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114203082"
+  },
+  {
+    "MSLINK": 114203094,
+    "BARRAMENTO": "171404",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0745%5CMACAPA_0745_RD_POSTES-0180-34850-07.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0745%5CMACAPA_0745_RD_POSTES-0173-34850-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114203094"
+  },
+  {
+    "MSLINK": 114203097,
+    "BARRAMENTO": "170500",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0745%5CMACAPA_0745_RD_POSTES-0069-34379-18.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0745%5CMACAPA_0745_RD_POSTES-0051-34379-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114203097"
+  },
+  {
+    "MSLINK": 114203098,
+    "BARRAMENTO": "170482",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0746%5CMACAPA_0746_RD_POSTES-2236-34242-12.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0746%5CMACAPA_0746_RD_POSTES-2224-34242-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114203098"
+  },
+  {
+    "MSLINK": 114203106,
+    "BARRAMENTO": "171229",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0742%5CMACAPA_0742_RD_POSTES-7651-34141-12.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0742%5CMACAPA_0742_RD_POSTES-7639-34141-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114203106"
+  },
+  {
+    "MSLINK": 114203128,
+    "BARRAMENTO": "171500",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0747%5CMACAPA_0747_RD_POSTES-1379-35324-09.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0747%5CMACAPA_0747_RD_POSTES-1370-35324-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114203128"
+  },
+  {
+    "MSLINK": 114203189,
+    "BARRAMENTO": "171486",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0747%5CMACAPA_0747_RD_POSTES-1245-35309-03.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0747%5CMACAPA_0747_RD_POSTES-1242-35309-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114203189"
+  },
+  {
+    "MSLINK": 114203252,
+    "BARRAMENTO": "170452",
+    "DADOS DO G2M": "CI_C_11_300",
+    "DADOS DO INVETÁRIO": "CI_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0750%5CMACAPA_0750_RD_POSTES-1556-34046-00.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0750%5CMACAPA_0750_RD_POSTES-1564-34046-08.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114203252"
+  },
+  {
+    "MSLINK": 114201516,
+    "BARRAMENTO": "139108",
+    "DADOS DO G2M": "CI_C_11_600",
+    "DADOS DO INVETÁRIO": "CI_C_11_600",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0729%5CMACAPA_0729_RD_POSTES-0694-32687-08.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0729%5CMACAPA_0729_RD_POSTES-0686-32687-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201516"
+  },
+  {
+    "MSLINK": 114201720,
+    "BARRAMENTO": "138271",
+    "DADOS DO G2M": "CI_C_11_600",
+    "DADOS DO INVETÁRIO": "CI_C_11_600",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0729%5CMACAPA_0729_RD_POSTES-0584-32425-15.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0729%5CMACAPA_0729_RD_POSTES-0569-32425-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201720"
+  },
+  {
+    "MSLINK": 114202933,
+    "BARRAMENTO": "171429",
+    "DADOS DO G2M": "CI_C_11_600",
+    "DADOS DO INVETÁRIO": "CI_C_11_600",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0750%5CMACAPA_0750_RD_POSTES-1538-34568-06.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0750%5CMACAPA_0750_RD_POSTES-1532-34568-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114202933"
+  },
+  {
+    "MSLINK": 114203073,
+    "BARRAMENTO": "171516",
+    "DADOS DO G2M": "CI_C_12_300",
+    "DADOS DO INVETÁRIO": "CI_C_12_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0746%5CMACAPA_0746_RD_POSTES-2410-34454-00.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0746%5CMACAPA_0746_RD_POSTES-2417-34454-07.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114203073"
+  },
+  {
+    "MSLINK": 114159088,
+    "BARRAMENTO": "170677",
+    "DADOS DO G2M": "DT_C_9_150",
+    "DADOS DO INVETÁRIO": "DT_C_9_150",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3099-35789-05.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3094-35789-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114159088"
+  },
+  {
+    "MSLINK": 114200877,
+    "BARRAMENTO": "138325",
+    "DADOS DO G2M": "DT_C_9_150",
+    "DADOS DO INVETÁRIO": "DT_C_9_150",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0731%5CMACAPA_0731_RD_POSTES-9897-32994-09.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0731%5CMACAPA_0731_RD_POSTES-9888-32994-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114200877"
+  },
+  {
+    "MSLINK": 114159396,
+    "BARRAMENTO": "170462",
+    "DADOS DO G2M": "DT_C_9_200",
+    "DADOS DO INVETÁRIO": "DT_C_9_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0754%5CMACAPA_0754_RD_POSTES-3199-34081-11.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0754%5CMACAPA_0754_RD_POSTES-3188-34081-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114159396"
+  },
+  {
+    "MSLINK": 114200238,
+    "BARRAMENTO": "175505",
+    "DADOS DO G2M": "DT_C_9_200",
+    "DADOS DO INVETÁRIO": "DT_C_9_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0525%5CMACAPA_0525_RD_POSTES-0723-31081-10.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0525%5CMACAPA_0525_RD_POSTES-0713-31081-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114200238"
+  },
+  {
+    "MSLINK": 114200875,
+    "BARRAMENTO": "138346",
+    "DADOS DO G2M": "DT_C_9_200",
+    "DADOS DO INVETÁRIO": "DT_C_9_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0731%5CMACAPA_0731_RD_POSTES-0063-33260-16.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0731%5CMACAPA_0731_RD_POSTES-0047-33260-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114200875"
+  },
+  {
+    "MSLINK": 114200883,
+    "BARRAMENTO": "138269",
+    "DADOS DO G2M": "DT_C_9_200",
+    "DADOS DO INVETÁRIO": "DT_C_9_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-1881-32407-07.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-1874-32407-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114200883"
+  },
+  {
+    "MSLINK": 114201018,
+    "BARRAMENTO": "138594",
+    "DADOS DO G2M": "DT_C_9_200",
+    "DADOS DO INVETÁRIO": "DT_C_9_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0734%5CMACAPA_0734_RD_POSTES-3558-34792-08.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0734%5CMACAPA_0734_RD_POSTES-3550-34792-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201018"
+  },
+  {
+    "MSLINK": 114201114,
+    "BARRAMENTO": "138810",
+    "DADOS DO G2M": "DT_C_9_200",
+    "DADOS DO INVETÁRIO": "DT_C_9_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0734%5CMACAPA_0734_RD_POSTES-3539-35354-10.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0734%5CMACAPA_0734_RD_POSTES-3529-35354-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201114"
+  },
+  {
+    "MSLINK": 114201189,
+    "BARRAMENTO": "175520",
+    "DADOS DO G2M": "DT_C_9_200",
+    "DADOS DO INVETÁRIO": "DT_C_9_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0529%5CMACAPA_0529_RD_POSTES-3200-31776-15.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0529%5CMACAPA_0529_RD_POSTES-3185-31776-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201189"
+  },
+  {
+    "MSLINK": 114201377,
+    "BARRAMENTO": "175525",
+    "DADOS DO G2M": "DT_C_9_200",
+    "DADOS DO INVETÁRIO": "DT_C_9_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0529%5CMACAPA_0529_RD_POSTES-3201-32015-00.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0529%5CMACAPA_0529_RD_POSTES-3214-32015-13.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201377"
+  },
+  {
+    "MSLINK": 114201510,
+    "BARRAMENTO": "138281",
+    "DADOS DO G2M": "DT_C_9_200",
+    "DADOS DO INVETÁRIO": "DT_C_9_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-1896-32642-12.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-1883-32642-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201510"
+  },
+  {
+    "MSLINK": 114201814,
+    "BARRAMENTO": "138341",
+    "DADOS DO G2M": "DT_C_9_200",
+    "DADOS DO INVETÁRIO": "DT_C_9_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0731%5CMACAPA_0731_RD_POSTES-0032-33163-00.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0731%5CMACAPA_0731_RD_POSTES-0045-33163-13.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201814"
+  },
+  {
+    "MSLINK": 114202984,
+    "BARRAMENTO": "226433",
+    "DADOS DO G2M": "DT_C_9_200",
+    "DADOS DO INVETÁRIO": "DT_C_9_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/AP_ALIM_SRITA-027%5CRD_POSTES%5CID1585%5C638017827537792841%5C01.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/AP_ALIM_SRITA-027%5CRD_POSTES%5CID1585%5C638017827537792841%5C07.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114202984"
+  },
+  {
+    "MSLINK": 114203151,
+    "BARRAMENTO": "171419",
+    "DADOS DO G2M": "DT_C_9_200",
+    "DADOS DO INVETÁRIO": "DT_C_9_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0745%5CMACAPA_0745_RD_POSTES-0321-34865-10.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0745%5CMACAPA_0745_RD_POSTES-0311-34865-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114203151"
+  },
+  {
+    "MSLINK": 114159089,
+    "BARRAMENTO": "170667",
+    "DADOS DO G2M": "DT_C_9_300",
+    "DADOS DO INVETÁRIO": "DT_C_9_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3084-35734-00.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3092-35734-08.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114159089"
+  },
+  {
+    "MSLINK": 114200967,
+    "BARRAMENTO": "138562",
+    "DADOS DO G2M": "DT_C_9_300",
+    "DADOS DO INVETÁRIO": "DT_C_9_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0734%5CMACAPA_0734_RD_POSTES-3561-34647-00.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0734%5CMACAPA_0734_RD_POSTES-3573-34647-12.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114200967"
+  },
+  {
+    "MSLINK": 114158685,
+    "BARRAMENTO": "170441",
+    "DADOS DO G2M": "DT_C_10_200",
+    "DADOS DO INVETÁRIO": "DT_C_10_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0754%5CMACAPA_0754_RD_POSTES-3432-33988-00.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0754%5CMACAPA_0754_RD_POSTES-3445-33988-13.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114158685"
+  },
+  {
+    "MSLINK": 114158784,
+    "BARRAMENTO": "170562",
+    "DADOS DO G2M": "DT_C_10_200",
+    "DADOS DO INVETÁRIO": "DT_C_10_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3356-34735-12.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3344-34735-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114158784"
+  },
+  {
+    "MSLINK": 114201158,
+    "BARRAMENTO": "139153",
+    "DADOS DO G2M": "DT_C_10_200",
+    "DADOS DO INVETÁRIO": "DT_C_10_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-2089-33155-14.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-2075-33155-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201158"
+  },
+  {
+    "MSLINK": 114201751,
+    "BARRAMENTO": "139146",
+    "DADOS DO G2M": "DT_C_10_200",
+    "DADOS DO INVETÁRIO": "DT_C_10_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-2016-33147-12.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-2004-33147-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201751"
+  },
+  {
+    "MSLINK": 114201765,
+    "BARRAMENTO": "138299",
+    "DADOS DO G2M": "DT_C_10_200",
+    "DADOS DO INVETÁRIO": "DT_C_10_200",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0731%5CMACAPA_0731_RD_POSTES-9914-32871-15.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0731%5CMACAPA_0731_RD_POSTES-9899-32871-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201765"
+  },
+  {
+    "MSLINK": 114200541,
+    "BARRAMENTO": "139150",
+    "DADOS DO G2M": "DT_C_10_300",
+    "DADOS DO INVETÁRIO": "DT_C_10_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-2059-33152-10.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-2049-33152-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114200541"
+  },
+  {
+    "MSLINK": 114201815,
+    "BARRAMENTO": "138337",
+    "DADOS DO G2M": "DT_C_10_300",
+    "DADOS DO INVETÁRIO": "DT_C_10_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-1983-33101-07.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-1976-33101-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201815"
+  },
+  {
+    "MSLINK": 114159408,
+    "BARRAMENTO": "171312",
+    "DADOS DO G2M": "DT_C_11_300",
+    "DADOS DO INVETÁRIO": "DT_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3714-35923-06.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0755%5CMACAPA_0755_RD_POSTES-3708-35923-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114159408"
+  },
+  {
+    "MSLINK": 114201190,
+    "BARRAMENTO": "138257",
+    "DADOS DO G2M": "DT_C_11_300",
+    "DADOS DO INVETÁRIO": "DT_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0729%5CMACAPA_0729_RD_POSTES-0499-32249-00.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0729%5CMACAPA_0729_RD_POSTES-0513-32249-14.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201190"
+  },
+  {
+    "MSLINK": 114201500,
+    "BARRAMENTO": "138326",
+    "DADOS DO G2M": "DT_C_11_300",
+    "DADOS DO INVETÁRIO": "DT_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-1942-33000-13.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0743%5CMACAPA_0743_RD_POSTES-1929-33000-00.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201500"
+  },
+  {
+    "MSLINK": 114201652,
+    "BARRAMENTO": "139109",
+    "DADOS DO G2M": "DT_C_11_300",
+    "DADOS DO INVETÁRIO": "DT_C_11_300",
+    "LINK FOTO 1": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0729%5CMACAPA_0729_RD_POSTES-0736-32688-00.jpg?reload=true&W=-1&H=-1",
+    "LINK FOTO 2": "https://safsaprod.blob.core.windows.net/gistudio/fsapictures/MACAPA%5CMACAPA_0729%5CMACAPA_0729_RD_POSTES-0742-32688-06.jpg?reload=true&W=-1&H=-1",
+    "ROOT LINK": "https://photo-viewer-node.onrender.com/",
+    "VISUALIZACAO WEB": "https://photo-viewer-node.onrender.com/114201652"
+  }
+]
