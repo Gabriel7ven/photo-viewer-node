@@ -59,7 +59,16 @@ body{
 
 }
 
+.fotos p {
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.foto {
+    text-align: center;
+}
+
 img {
-    width: 49%;
+    width: 100%;
 
 }
